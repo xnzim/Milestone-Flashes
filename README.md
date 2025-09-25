@@ -7,17 +7,12 @@ A Geometry Dash mod that adds colorful visual celebrations when you reach progre
 ## Features
 
 ✨ **Visual Milestone Celebrations**: Flash animations when you reach:
-- **25%** - Bright color flashes with scaling effects
-- **50%** - Dynamic color sequences (red → yellow → green)
-- **75%** - Satisfying visual feedback for major progress
-- **90%** - Encouraging flash as you near completion
-- **95%** - Final push animation for the home stretch
+- **25%**, **50%**, **75%**, **90%** and **95%**.
 
 🎨 **Smooth Animations**: Uses Cocos2d-x CCTintTo and CCScaleTo for fluid color transitions and scaling effects
 
 🔧 **Clean Integration**: Works seamlessly with existing UI, animations reset cleanly to original state
 
-🎯 **Reliable Detection**: Multiple hook strategies ensure milestone detection works across all level types
 
 ## Installation
 
@@ -31,7 +26,7 @@ A Geometry Dash mod that adds colorful visual celebrations when you reach progre
 Simply play any level normally! The mod will automatically detect when you reach milestone percentages and trigger the colorful flash animations on the percentage label. No configuration needed - just play and enjoy the visual celebrations of your progress!
 
 ## Build instructions
-For more info, see [our docs](https://docs.geode-sdk.org/getting-started/create-mod#build)
+For more info, see [geode docs](https://docs.geode-sdk.org/getting-started/create-mod#build)
 ```sh
 # Assuming you have the Geode CLI set up already
 geode build
