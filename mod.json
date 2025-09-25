@@ -1,0 +1,26 @@
+{
+	"geode": "4.8.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "snix.milestone_percentage_flashes",
+	"name": "Milestone Flashing",
+	"version": "v1.0.0",
+	"developer": "Snix",
+	"description": "Flashes the percentage label with colorful animations when reaching certain milestones in levels",
+	"dependencies": {
+		"geode.node-ids": ">=v1.20.0"
+	},
+	"links": {
+		"source": "",
+		"community": "https://discord.gg/389pKvby2t"
+	},
+	"tags": [
+		"interface",
+		"gameplay"
+		// "customization"
+	]
+}
