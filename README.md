@@ -6,12 +6,10 @@ A Geometry Dash mod that adds colorful visual celebrations when you reach progre
 
 ## Features
 
-✨ **Visual Milestone Celebrations**: Flash animations when you reach:
-- **25%**, **50%**, **75%**, **90%** and **95%**.
-
-🎨 **Smooth Animations**: Uses Cocos2d-x CCTintTo and CCScaleTo for fluid color transitions and scaling effects
-
-🔧 **Clean Integration**: Works seamlessly with existing UI, animations reset cleanly to original state
+- **Visual Milestone Celebrations**: Flash animations when you reach:
+  - **25%**, **50%**, **75%**, **90%** and **95%**.
+- **Smooth Animations**: Uses Cocos2d-x CCTintTo and CCScaleTo for fluid color transitions and scaling effects
+- **Clean Integration**: Works seamlessly with existing UI, animations reset cleanly to original state
 
 
 ## Installation
